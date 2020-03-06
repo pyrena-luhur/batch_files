@@ -8,3 +8,5 @@ The simplest way to run it:
 4. Type the file name in the cmd.exe window
 
 Files are tested in Windows 10
+
+Note: Opening cmd through Notepad++ may not work as it is a Windows Command Processor.
